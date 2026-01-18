@@ -1,10 +1,8 @@
 # **📝 Post-Class Assignments: SQL DDL & Schema Design**
 
-Module: 1.3 Data Definition & Management
-
 Estimated Time: 45-60 Minutes
 
-Prerequisites: Completion of the "School System" lesson plan.
+**Post to Discord Peer Review Channel if You want to share your answers and discuss with peers.** https://discord.com/channels/1165846570177150996/1457586759667028094
 
 ## **Case Study 1: The "Tiny Library" (Schema Design)**
 
